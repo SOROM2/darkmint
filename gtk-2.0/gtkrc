@@ -46,9 +46,9 @@ GtkTextView::secondary_cursor_color	= "green"
 GtkWidget::cursor_color			= "green"
 GtkWidget::secondary_cursor_color	= "green"
 
-fg[NORMAL]		= "#78B97E"
-fg[PRELIGHT]		= "#78B97E"
-fg[ACTIVE]		= "#78B97E"
+fg[NORMAL]		= "#74F8B7"
+fg[PRELIGHT]		= "#74F8B7"
+fg[ACTIVE]		= "#74F8B7"
 fg[SELECTED]		= "#909090"
 fg[INSENSITIVE]		= "#909090"
 
@@ -64,10 +64,10 @@ base[ACTIVE]		= "#074611"
 base[SELECTED]		= "#0d7c12"
 base[INSENSITIVE]	= "#060A08"
 
-text[NORMAL]		= "#78B97E"
-text[PRELIGHT]		= "#78B97E"
-text[ACTIVE]		= "#78B97E"
-text[SELECTED]		= "#78B97E"
+text[NORMAL]		= "#74F8B7"
+text[PRELIGHT]		= "#74F8B7"
+text[ACTIVE]		= "#74F8B7"
+text[SELECTED]		= "#74F8B7"
 text[INSENSITIVE]	= "#606060"
 
 engine "pixmap"
@@ -873,8 +873,8 @@ arrow_direction	= LEFT
 }
 
 style "progressbar" {
-fg[PRELIGHT] 	= "#78B97E"
-text[PRELIGHT] = "#78B97E"
+fg[PRELIGHT] 	= "#74F8B7"
+text[PRELIGHT] = "#74F8B7"
 xthickness 	= 2
 ythickness 	= 2
 
@@ -1084,7 +1084,7 @@ stretch	= TRUE
 style "menuitem" = "default"
 {
 xthickness		= 1
-fg[PRELIGHT] 	= "#78B97E"
+fg[PRELIGHT] 	= "#74F8B7"
 text[PRELIGHT]	= "#949494"
 
 engine "pixmap"
@@ -1131,13 +1131,13 @@ arrow_direction	= LEFT
 
 style "menubar"
 {
-fg[NORMAL]		= "#78B97E"
-text[NORMAL]		= "#78B97E"
-fg[PRELIGHT]		= "#78B97E"
-fg[ACTIVE]		= "#78B97E"
+fg[NORMAL]		= "#74F8B7"
+text[NORMAL]		= "#74F8B7"
+fg[PRELIGHT]		= "#74F8B7"
+fg[ACTIVE]		= "#74F8B7"
 fg[INSENSITIVE]		= "#909090"
 bg[INSENSITIVE]	= "#3f3f3f"
-text[PRELIGHT]		= "#78B97E"
+text[PRELIGHT]		= "#74F8B7"
 
 xthickness	= 1
 ythickness	= 1
