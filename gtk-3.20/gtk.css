@@ -40,14 +40,14 @@
 
 /* dark colormap */
 
-@define-color theme_base_color #060A08;
-@define-color theme_text_color #78B97E;
+@define-color theme_base_color #141616;
+@define-color theme_text_color #74F8B7;
 @define-color theme_bg_color #232323;
 @define-color theme_fg_color @theme_text_color;
-@define-color selected_bg_color #133D17;
-@define-color selected_fg_color  #9EFFA7;
-@define-color theme_selected_bg_color #133D17;
-@define-color theme_selected_fg_color #9EFFA7;
+@define-color selected_bg_color #0F1914;
+@define-color selected_fg_color  #74F8B7;
+@define-color theme_selected_bg_color #0F1914;
+@define-color theme_selected_fg_color #74F8B7;
 
 @define-color menu_bg_color #555753;
 @define-color menu_fg_color @theme_text_color;

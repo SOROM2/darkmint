@@ -1,11 +1,11 @@
 
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=DarkMint
+Name=DarkTronix
 Comment= Dark theme
 Encoding=UTF-8
 
-Name[en_UK]=DarkMint
+Name[en_UK]=DarkTronix
 
 [X-GNOME-Metatheme]
 GtkTheme=Dark theme
